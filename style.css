@@ -1,0 +1,173 @@
+body {
+
+
+       height: auto;
+    overflow: auto;
+    margin: 0;
+    padding: 0;
+
+    background-color: rgb(8, 0, 37);
+  
+    
+
+  
+    
+    font-family: Arial, sans-serif;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
+
+
+ul{
+    list-style-type: none;
+
+
+
+    
+    
+
+
+}
+li{
+
+
+    
+   
+}
+
+a{
+    text-decoration: none;
+    color: black;
+
+}
+
+
+
+
+
+
+
+
+div > img {
+    border-radius: 50px;
+   
+   
+
+}
+
+iframe {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+    overflow: auto;
+}
+#iframe {
+    position: absolute;
+    top: 1;
+    overflow: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+    height: 476px;
+    width: 270px;
+
+    z-index: 1;
+
+    
+    
+}
+
+#celular {
+    
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+   
+   
+
+}
+
+#home{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+}
+
+#body{
+
+
+
+   
+
+  
+}
+
+#list {
+    padding-right: 10px;
+    align-items: end;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+#acessar{
+
+    text-align: center;
+    margin: auto;
+    color: white;
+    background-color: red;
+    padding: 7px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+.li{
+
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    margin: 5px;
+
+   
+}
+
+
+
+.paginas
+{
+    position: relative;
+  
+    width: 100%;
+    height: 100%;
+    border: 0px;
+    margin: 0px;
+}
